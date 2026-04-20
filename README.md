@@ -1,3 +1,4 @@
+![Dashboard Preview](your-image-file-name.png)
 # 🏏 IPL Analysis Dashboard (2008–2025)
 
 ## 📊 Project Overview
