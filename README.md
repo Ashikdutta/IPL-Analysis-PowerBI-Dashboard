@@ -17,7 +17,7 @@ This project is an interactive Power BI dashboard that provides insights into IP
 - Data Visualization
 
 ## 🌐 Live Dashboard
-[Add Power BI link here]
+(https://www.linkedin.com/posts/ashik-dutta-a613a3219_powerbi-dataanalytics-dashboard-activity-7452084061902118912-134p?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcNeCkBcYxMRZzZl3Z_vkZ22mwyy2k36MY)
 
 ## 👨‍💻 Author
 Ashik Dutta
